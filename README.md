@@ -13,3 +13,11 @@ For the reference,one can go through the paper
 ![Dense Block](https://github.com/ShambhawiVarchasva/SRGAN/blob/master/dense.png?raw=true)
 
 ![Residual Block](https://github.com/ShambhawiVarchasva/SRGAN/blob/master/residual.png?raw=true)
+
+
+
+
+References:
+github.com/brade31919/SRGAN-tensorflow   (for skeleton code)
+https://arxiv.org/pdf/1609.04802.pdf     for theory
+
