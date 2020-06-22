@@ -6,4 +6,4 @@ The skeleton code is take from github.com/brade31919/SRGAN-tensorflow  which  is
 I have designed my own generator architecture.
 For the reference,one can go through the paper
 
-![alt text](https://github.com/ShambhawiVarchasva/SRGAN/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/ShambhawiVarchasva/SRGAN/blob/master/generator.png?raw=true)
